@@ -1,3 +1,5 @@
+package AbstractFactoryMethod;
+
 public class ServerFactory implements ComputerAbstractFactory { // Фактори классы для каждого подкласса
     private String ram;
     private String hdd;

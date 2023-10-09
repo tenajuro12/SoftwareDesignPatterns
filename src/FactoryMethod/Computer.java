@@ -1,4 +1,6 @@
-public abstract class Computer { //Супер класс
+package FactoryMethod;
+
+public abstract class Computer { //Супер класс, где хранятся методы нашей фабрики
 
     public abstract String getRAM();
 

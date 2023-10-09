@@ -1,3 +1,5 @@
+package AbstractFactoryMethod;
+
 public class Server extends Computer { //второй сабкласс
     private String ram;
     private String hdd;

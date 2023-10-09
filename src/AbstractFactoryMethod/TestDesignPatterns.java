@@ -1,4 +1,4 @@
-
+package AbstractFactoryMethod;
 
 public class TestDesignPatterns { //создание потребительского класс,который обеспечит точку входа для создания подклассов
     public static void main(String[] args) {

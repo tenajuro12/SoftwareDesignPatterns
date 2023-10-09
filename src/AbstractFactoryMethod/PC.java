@@ -1,3 +1,7 @@
+package AbstractFactoryMethod;
+
+import AbstractFactoryMethod.Computer;
+
 public class PC extends Computer { // первый саб класс
     private String ram;
     private String hdd;
